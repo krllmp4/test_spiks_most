@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_spiks_test/core/values/icons/outline_icons.dart';
+import 'package:flutter_spiks_test/features/therapist_filters/view/bottom_sheet_widget.dart';
 import 'package:flutter_spiks_test/features/therapist_filters/view_model/filters_view_model.dart';
 import 'package:flutter_spiks_test/features/therapists/domain/bloc/therapists_list_bloc.dart';
-import 'package:flutter_spiks_test/features/therapist_filters/view/bottom_sheet_widget.dart';
 import 'package:flutter_spiks_test/generated/l10n.dart';
 import 'package:provider/provider.dart';
 
