@@ -1,0 +1,170 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 19 min SDK version: arm64-v8a",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -724619810
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\.cxx\\Debug\\2m6usw72\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1642731567
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\.cxx\\Debug\\2m6usw72\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -609886863
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\.cxx\\Debug\\2m6usw72\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1711831601
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2137108265
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\.cxx\\Debug\\2m6usw72\\arm64-v8a\u0027",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1760991739
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake Executable : C:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d19\n-DANDROID_PLATFORM\u003dandroid-19\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\ndk\\25.1.8937393\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\ndk\\25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\pogre\\StudioProjects\\flutter-spiks-test\\build\\rive_common\\intermediates\\cxx\\Debug\\2m6usw72\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\pogre\\StudioProjects\\flutter-spiks-test\\build\\rive_common\\intermediates\\cxx\\Debug\\2m6usw72\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\.cxx\\Debug\\2m6usw72\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 706200974
+  },
+  {
+    "level_": 0,
+    "message_": "Executable : C:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\cmake.exe\narguments : \n-HC:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_SYSTEM_VERSION\u003d19\n-DANDROID_PLATFORM\u003dandroid-19\n-DANDROID_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DANDROID_NDK\u003dC:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\ndk\\25.1.8937393\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\ndk\\25.1.8937393\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\pogre\\AppData\\Local\\Android\\sdk\\cmake\\3.18.1\\bin\\ninja.exe\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\pogre\\StudioProjects\\flutter-spiks-test\\build\\rive_common\\intermediates\\cxx\\Debug\\2m6usw72\\obj\\arm64-v8a\n-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\Users\\pogre\\StudioProjects\\flutter-spiks-test\\build\\rive_common\\intermediates\\cxx\\Debug\\2m6usw72\\obj\\arm64-v8a\n-DCMAKE_BUILD_TYPE\u003dDebug\n-BC:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\.cxx\\Debug\\2m6usw72\\arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1922613871
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\.cxx\\Debug\\2m6usw72\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -919050917
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1824762014
+  },
+  {
+    "level_": 0,
+    "message_": "write command file C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\.cxx\\Debug\\2m6usw72\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1545431109
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\pogre\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.1.0\\android\\CMakeLists.txt",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -532132198
+  }
+]
